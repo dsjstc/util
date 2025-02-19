@@ -101,7 +101,7 @@ class ExifDate:
                     self.log_new_tags(metadata)
                     return found_date
                 except ValueError:
-                    print(f"Invalid date format for {key}: {value}")
+                    print(f"Invalid date format. {self.file_path}:  {key} --- {value}")
 
             self.log_new_tags(metadata)
             return None
@@ -111,20 +111,46 @@ class ExifDate:
 
     def parse_date(self, date_str):
         try:
+            # Check for specific known formats first
+            if ":" in date_str and len(date_str.split(":")[0]) == 4:
+                # Likely a date in the format "YYYY:MM:DD HH:MM:SS" or "YYYY:MM:DD HH:MM"
+                try:
+                    return datetime.strptime(date_str, "%Y:%m:%d %H:%M:%S%z")
+                except ValueError:
+                    # Handle case where seconds are missing
+                    return datetime.strptime(date_str, "%Y:%m:%d %H:%M%z")
+
             # Try parsing with dateutil.parser
-            return parser.parse(date_str)
+            parsed_date = parser.parse(date_str)
+
+            # Check if the parsed date is within a reasonable range
+            if not (1900 <= parsed_date.year <= datetime.now().year):
+                raise ValueError(f"Parsed date {parsed_date} is out of range.")
+
+            return parsed_date
         except ValueError:
             # Try common date formats manually
             date_formats = [
-                "%Y:%m:%d %H:%M:%S",
-                "%Y-%m-%d %H:%M:%S",
-                "%Y/%m/%d %H:%M:%S",
-                "%Y%m%d %H:%M:%S",
-                "%Y%m%dT%H%M%S",
+                "%Y:%m:%d %H:%M:%S%z",
+                "%Y:%m:%d %H:%M%z",
+                "%Y-%m-%d %H:%M:%S%z",
+                "%Y-%m-%d %H:%M%z",
+                "%Y/%m/%d %H:%M:%S%z",
+                "%Y/%m/%d %H:%M%z",
+                "%Y%m%d %H:%M:%S%z",
+                "%Y%m%d %H:%M%z",
+                "%Y%m%dT%H%M%S%z",
+                "%Y%m%dT%H%M%z",
             ]
             for fmt in date_formats:
                 try:
-                    return datetime.strptime(date_str, fmt)
+                    parsed_date = datetime.strptime(date_str, fmt)
+
+                    # Check if the parsed date is within a reasonable range
+                    if not (1900 <= parsed_date.year <= datetime.now().year):
+                        raise ValueError(f"Parsed date {parsed_date} is out of range.")
+
+                    return parsed_date
                 except ValueError:
                     continue
             raise ValueError(f"Date format not recognized: {date_str}")
@@ -138,20 +164,6 @@ class ExifDate:
                 tag_name = key.split(":")[-1]
                 if "Date" in tag_name and tag_name not in self.DATE_FIELDS:
                     log_file.write(f"{tag_name}: {value}\n")
-
-    def extract_modification_date(self):
-        try:
-            stat = os.stat(self.file_path)
-            date = datetime.fromtimestamp(stat.st_mtime).strftime("%Y%m%d%H%M%S")
-            current_year = datetime.now().year
-            if date.startswith(str(current_year)):
-                print(
-                    f"Warning: Found a date in {current_year} for file {self.file_path}"
-                )
-            return date
-        except Exception as e:
-            print(f"Error extracting modification date for file {self.file_path}: {e}")
-            return None
 
     def apply_date(self, datetime_str):
         try:
@@ -179,22 +191,3 @@ class ExifDate:
                 )
         except Exception as e:
             print(f"Error applying date for file {self.file_path}: {e}")
-
-
-def process_file(file_path, dry_run, timezone_str=None):
-    print(f"Processing file: {file_path}")
-
-    if file_path.suffix.lower() not in [".xmp", ".xcf"]:
-        extractor = ExifDate(file_path, dry_run=dry_run, timezone_str=timezone_str)
-    else:
-        extractor = SidecarDateExtractor(file_path, dry_run=dry_run)
-
-    metadata_date = extractor.extract_metadata_date()
-    if not metadata_date:
-        metadata_date = extractor.extract_modification_date()
-
-    try:
-        if metadata_date:
-            extractor.apply_date(metadata_date)
-    except ValueError as e:
-        print(f"Error processing file {file_path}: {e}")

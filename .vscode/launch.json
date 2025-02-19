@@ -5,7 +5,7 @@
             "name": "Debug maintest",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/exif2mtime.py",
+            "program": "${workspaceFolder}/scripts/exif2mtime.py",
             "args": [],
             "env": {
                 "TEST_MODE": "1"
@@ -16,8 +16,13 @@
             "name": "Debug main",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/exif2mtime.py",
-            "args": [],
+            "program": "${workspaceFolder}/scripts/exif2mtime.py",
+            "args": [
+                "-r",
+                "-a",
+                "-d",
+                "../0-folks/"
+            ],
             "console": "integratedTerminal"
         }
     ]
