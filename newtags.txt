@@ -1,0 +1,336 @@
+EXIF:ModifyDate: 2015:05:14 18:25:42
+EXIF:DateTimeOriginal: 2015:05:13 20:13:32
+EXIF:CreateDate: 2015:05:13 20:13:32
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:13:32.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:13:32.00
+Composite:SubSecModifyDate: 2015:05:14 18:25:42.00
+Composite:GPSDateTime: 2015:05:14 03:11:24Z
+EXIF:ModifyDate: 2015:05:14 18:25:42
+EXIF:DateTimeOriginal: 2015:05:13 20:13:32
+EXIF:CreateDate: 2015:05:13 20:13:32
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:13:32.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:13:32.00
+Composite:SubSecModifyDate: 2015:05:14 18:25:42.00
+Composite:GPSDateTime: 2015:05:14 03:11:24Z
+PNG:ModifyDate: 2016:12:18 02:40:03
+XMP:MetadataDate: 2016:12:24 20:21:06-08:00
+EXIF:ModifyDate: 2016:12:17 14:29:18
+EXIF:DateTimeOriginal: 2015:05:13 20:17:49
+EXIF:CreateDate: 2015:05:13 20:17:49
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:17:49.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:17:49.00
+Composite:SubSecModifyDate: 2016:12:17 14:29:18.00
+Composite:GPSDateTime: 2015:05:14 03:16:25Z
+EXIF:ModifyDate: 2012:08:20 19:39:05
+EXIF:DateTimeOriginal: 2012:08:20 19:39:05
+EXIF:CreateDate: 2012:08:20 19:39:05
+MakerNotes:DateStampMode: 0
+XMP:DateCreated: 2012:08:20 19:39:05
+XMP:ModifyDate: 2012:08:20 19:39:05
+XMP:CreateDate: 2012:08:20 19:39:05
+XMP:MetadataDate: 2016:12:24 20:18:27-08:00
+IPTC:DateCreated: 2012:08:20
+Composite:DateTimeCreated: 2012:08:20 19:39:05
+EXIF:ModifyDate: 2011:06:25 10:28:59
+EXIF:DateTimeOriginal: 2011:06:25 10:28:59
+EXIF:CreateDate: 2011:06:25 10:28:59
+EXIF:ModifyDate: 2008:08:06 18:01:23
+EXIF:DateTimeOriginal: 2008:08:06 18:01:23
+EXIF:CreateDate: 2008:08:06 18:01:23
+QuickTime:CreateDate: 2016:09:27 18:31:50
+QuickTime:ModifyDate: 2019:02:21 05:52:29
+QuickTime:TrackCreateDate: 2019:02:21 05:52:29
+QuickTime:TrackModifyDate: 2019:02:21 05:52:29
+QuickTime:MediaCreateDate: 2019:02:21 05:52:29
+QuickTime:MediaModifyDate: 2019:02:21 05:52:29
+EXIF:ModifyDate: 2015:05:13 20:17:49
+EXIF:DateTimeOriginal: 2015:05:13 20:17:49
+EXIF:CreateDate: 2015:05:13 20:17:49
+EXIF:GPSDateStamp: 2015:05:14
+XMP:DateTime: 2015:05:13 20:17:49
+XMP:DateTimeOriginal: 2015:05:13 20:17:49
+XMP:DateTimeDigitized: 2015:05:13 20:17:49
+XMP:GPSDateTime: 03:16:25.00
+XMP:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:17:49.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:17:49.00
+Composite:SubSecModifyDate: 2015:05:13 20:17:49.00
+Composite:GPSDateTime: 2015:05:14 03:16:25Z
+XMP:MetadataDate: 2016:12:24 20:20:22-08:00
+EXIF:ModifyDate: 2015:11:08 11:08:04
+EXIF:DateTimeOriginal: 2015:11:08 11:08:04
+EXIF:CreateDate: 2015:11:08 11:08:04
+Composite:SubSecCreateDate: 2015:11:08 11:08:04.00
+Composite:SubSecDateTimeOriginal: 2015:11:08 11:08:04.00
+Composite:SubSecModifyDate: 2015:11:08 11:08:04.00
+EXIF:ModifyDate: 2011:06:25 10:28:59
+EXIF:DateTimeOriginal: 2011:06:25 10:28:59
+EXIF:CreateDate: 2011:06:25 10:28:59
+XMP:ModifyDate: 2015:05:13 20:13:32.00
+XMP:CreateDate: 2015:05:13 20:13:32.00
+XMP:MetadataDate: 2016:12:24 20:20:23-08:00
+XMP:GPSDateTime: 2015:05:14 03:11:24Z
+XMP:DateTimeOriginal: 2015:05:13 20:13:32.00
+XMP:DateCreated: 2015:05:13 20:13:32.00
+PNG:ModifyDate: 2016:12:18 04:46:13
+XMP:MetadataDate: 2016:12:24 20:21:06-08:00
+EXIF:ModifyDate: 2015:05:13 20:13:32
+EXIF:DateTimeOriginal: 2015:05:13 20:13:32
+EXIF:CreateDate: 2015:05:13 20:13:32
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:13:32.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:13:32.00
+Composite:SubSecModifyDate: 2015:05:13 20:13:32.00
+Composite:GPSDateTime: 2015:05:14 03:11:24Z
+EXIF:ModifyDate: 2016:12:29 16:27:58
+EXIF:DateTimeOriginal: 2015:05:13 20:17:49
+EXIF:CreateDate: 2015:05:13 20:17:49
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:17:49.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:17:49.00
+Composite:SubSecModifyDate: 2016:12:29 16:27:58.00
+Composite:GPSDateTime: 2015:05:14 03:16:25Z
+EXIF:ModifyDate: 2015:11:08 11:08:04
+EXIF:DateTimeOriginal: 2015:11:08 11:08:04
+EXIF:CreateDate: 2015:11:08 11:08:04
+Composite:SubSecCreateDate: 2015:11:08 11:08:04.00
+Composite:SubSecDateTimeOriginal: 2015:11:08 11:08:04.00
+Composite:SubSecModifyDate: 2015:11:08 11:08:04.00
+EXIF:ModifyDate: 2016:12:18 15:30:51
+EXIF:DateTimeOriginal: 2013:10:13 11:28:10
+EXIF:CreateDate: 2013:10:13 11:28:10
+XMP:ModifyDate: 2016:12:18 15:30:51
+XMP:CreateDate: 2013:10:13 11:28:10
+XMP:MetadataDate: 2016:12:24 20:19:16-08:00
+XMP:DateCreated: 2013:10:13 11:28:10
+IPTC:DateCreated: 2013:10:13
+Composite:DateTimeCreated: 2013:10:13 11:28:10
+EXIF:ModifyDate: 2009:07:07 02:18:03
+EXIF:DateTimeOriginal: 2009:07:07 02:18:03
+EXIF:CreateDate: 2009:07:07 02:18:03
+MakerNotes:DateStampMode: 0
+XMP:DateCreated: 2009:07:07 02:18:03
+XMP:ModifyDate: 2009:07:07 02:18:03
+XMP:CreateDate: 2009:07:07 02:18:03
+XMP:MetadataDate: 2016:12:24 20:16:29-08:00
+IPTC:DateCreated: 2009:07:07
+Composite:DateTimeCreated: 2009:07:07 02:18:03
+EXIF:ModifyDate: 2016:12:17 14:19:29
+EXIF:DateTimeOriginal: 2015:05:13 20:13:32
+EXIF:CreateDate: 2015:05:13 20:13:32
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:13:32.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:13:32.00
+Composite:SubSecModifyDate: 2016:12:17 14:19:29.00
+Composite:GPSDateTime: 2015:05:14 03:11:24Z
+EXIF:ModifyDate: 2011:06:25 10:28:59
+EXIF:DateTimeOriginal: 2011:06:25 10:28:59
+EXIF:CreateDate: 2011:06:25 10:28:59
+EXIF:ModifyDate: 2015:05:13 20:17:49
+EXIF:DateTimeOriginal: 2015:05:13 20:17:49
+EXIF:CreateDate: 2015:05:13 20:17:49
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:17:49.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:17:49.00
+Composite:SubSecModifyDate: 2015:05:13 20:17:49.00
+Composite:GPSDateTime: 2015:05:14 03:16:25Z
+QuickTime:CreateDate: 2018:10:14 01:31:28
+QuickTime:ModifyDate: 2019:02:19 07:05:56
+QuickTime:TrackCreateDate: 2019:02:19 07:05:56
+QuickTime:TrackModifyDate: 2019:02:19 07:05:56
+QuickTime:MediaCreateDate: 2019:02:19 07:05:56
+QuickTime:MediaModifyDate: 2019:02:19 07:05:56
+XMP:DateTimeOriginal: 2015:11:08 11:08:04.000
+QuickTime:CreateDate: 2016:04:14 12:29:56
+QuickTime:ModifyDate: 2019:02:21 08:22:28
+QuickTime:TrackCreateDate: 2019:02:21 08:22:28
+QuickTime:TrackModifyDate: 2019:02:21 08:22:28
+QuickTime:MediaCreateDate: 2019:02:21 08:22:28
+QuickTime:MediaModifyDate: 2019:02:21 08:22:28
+XMP:MetadataDate: 2016:12:24 20:21:06-08:00
+PNG:ModifyDate: 2016:12:25 05:39:50
+EXIF:ModifyDate: 2008:04:19 15:25:02
+EXIF:DateTimeOriginal: 2008:04:19 15:25:02
+EXIF:CreateDate: 2008:04:19 15:25:02
+XMP:DateCreated: 2008:04:19 15:25:02
+XMP:ModifyDate: 2008:04:19 15:25:02
+XMP:CreateDate: 2008:04:19 15:25:02
+XMP:MetadataDate: 2016:12:24 20:15:45-08:00
+IPTC:DateCreated: 2008:04:19
+Composite:DateTimeCreated: 2008:04:19 15:25:02
+EXIF:ModifyDate: 2015:05:14 18:25:42
+EXIF:DateTimeOriginal: 2015:05:13 20:13:32
+EXIF:CreateDate: 2015:05:13 20:13:32
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:13:32.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:13:32.00
+Composite:SubSecModifyDate: 2015:05:14 18:25:42.00
+Composite:GPSDateTime: 2015:05:14 03:11:24Z
+PNG:ModifyDate: 2016:12:18 02:40:03
+XMP:MetadataDate: 2016:12:24 20:21:06-08:00
+EXIF:ModifyDate: 2015:05:14 18:25:42
+EXIF:DateTimeOriginal: 2015:05:13 20:13:32
+EXIF:CreateDate: 2015:05:13 20:13:32
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:13:32.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:13:32.00
+Composite:SubSecModifyDate: 2015:05:14 18:25:42.00
+Composite:GPSDateTime: 2015:05:14 03:11:24Z
+EXIF:ModifyDate: 2015:05:14 18:25:42
+EXIF:DateTimeOriginal: 2015:05:13 20:13:32
+EXIF:CreateDate: 2015:05:13 20:13:32
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:13:32.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:13:32.00
+Composite:SubSecModifyDate: 2015:05:14 18:25:42.00
+Composite:GPSDateTime: 2015:05:14 03:11:24Z
+PNG:ModifyDate: 2016:12:18 02:40:03
+XMP:MetadataDate: 2016:12:24 20:21:06-08:00
+EXIF:ModifyDate: 2016:12:17 14:29:18
+EXIF:DateTimeOriginal: 2015:05:13 20:17:49
+EXIF:CreateDate: 2015:05:13 20:17:49
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:17:49.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:17:49.00
+Composite:SubSecModifyDate: 2016:12:17 14:29:18.00
+Composite:GPSDateTime: 2015:05:14 03:16:25Z
+EXIF:ModifyDate: 2012:08:20 19:39:05
+EXIF:DateTimeOriginal: 2012:08:20 19:39:05
+EXIF:CreateDate: 2012:08:20 19:39:05
+MakerNotes:DateStampMode: 0
+XMP:DateCreated: 2012:08:20 19:39:05
+XMP:ModifyDate: 2012:08:20 19:39:05
+XMP:CreateDate: 2012:08:20 19:39:05
+XMP:MetadataDate: 2016:12:24 20:18:27-08:00
+IPTC:DateCreated: 2012:08:20
+Composite:DateTimeCreated: 2012:08:20 19:39:05
+EXIF:ModifyDate: 2011:06:25 10:28:59
+EXIF:DateTimeOriginal: 2011:06:25 10:28:59
+EXIF:CreateDate: 2011:06:25 10:28:59
+EXIF:ModifyDate: 2008:08:06 18:01:23
+EXIF:DateTimeOriginal: 2008:08:06 18:01:23
+EXIF:CreateDate: 2008:08:06 18:01:23
+QuickTime:CreateDate: 2016:09:27 18:31:50
+QuickTime:ModifyDate: 2019:02:21 05:52:29
+QuickTime:TrackCreateDate: 2019:02:21 05:52:29
+QuickTime:TrackModifyDate: 2019:02:21 05:52:29
+QuickTime:MediaCreateDate: 2019:02:21 05:52:29
+QuickTime:MediaModifyDate: 2019:02:21 05:52:29
+EXIF:ModifyDate: 2015:05:13 20:17:49
+EXIF:DateTimeOriginal: 2015:05:13 20:17:49
+EXIF:CreateDate: 2015:05:13 20:17:49
+EXIF:GPSDateStamp: 2015:05:14
+XMP:DateTime: 2015:05:13 20:17:49
+XMP:DateTimeOriginal: 2015:05:13 20:17:49
+XMP:DateTimeDigitized: 2015:05:13 20:17:49
+XMP:GPSDateTime: 03:16:25.00
+XMP:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:17:49.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:17:49.00
+Composite:SubSecModifyDate: 2015:05:13 20:17:49.00
+Composite:GPSDateTime: 2015:05:14 03:16:25Z
+XMP:MetadataDate: 2016:12:24 20:20:22-08:00
+EXIF:ModifyDate: 2015:11:08 11:08:04
+EXIF:DateTimeOriginal: 2015:11:08 11:08:04
+EXIF:CreateDate: 2015:11:08 11:08:04
+Composite:SubSecCreateDate: 2015:11:08 11:08:04.00
+Composite:SubSecDateTimeOriginal: 2015:11:08 11:08:04.00
+Composite:SubSecModifyDate: 2015:11:08 11:08:04.00
+EXIF:ModifyDate: 2011:06:25 10:28:59
+EXIF:DateTimeOriginal: 2011:06:25 10:28:59
+EXIF:CreateDate: 2011:06:25 10:28:59
+XMP:ModifyDate: 2015:05:13 20:13:32.00
+XMP:CreateDate: 2015:05:13 20:13:32.00
+XMP:MetadataDate: 2016:12:24 20:20:23-08:00
+XMP:GPSDateTime: 2015:05:14 03:11:24Z
+XMP:DateTimeOriginal: 2015:05:13 20:13:32.00
+XMP:DateCreated: 2015:05:13 20:13:32.00
+PNG:ModifyDate: 2016:12:18 04:46:13
+XMP:MetadataDate: 2016:12:24 20:21:06-08:00
+EXIF:ModifyDate: 2015:05:13 20:13:32
+EXIF:DateTimeOriginal: 2015:05:13 20:13:32
+EXIF:CreateDate: 2015:05:13 20:13:32
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:13:32.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:13:32.00
+Composite:SubSecModifyDate: 2015:05:13 20:13:32.00
+Composite:GPSDateTime: 2015:05:14 03:11:24Z
+EXIF:ModifyDate: 2016:12:29 16:27:58
+EXIF:DateTimeOriginal: 2015:05:13 20:17:49
+EXIF:CreateDate: 2015:05:13 20:17:49
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:17:49.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:17:49.00
+Composite:SubSecModifyDate: 2016:12:29 16:27:58.00
+Composite:GPSDateTime: 2015:05:14 03:16:25Z
+EXIF:ModifyDate: 2015:11:08 11:08:04
+EXIF:DateTimeOriginal: 2015:11:08 11:08:04
+EXIF:CreateDate: 2015:11:08 11:08:04
+Composite:SubSecCreateDate: 2015:11:08 11:08:04.00
+Composite:SubSecDateTimeOriginal: 2015:11:08 11:08:04.00
+Composite:SubSecModifyDate: 2015:11:08 11:08:04.00
+EXIF:ModifyDate: 2016:12:18 15:30:51
+EXIF:DateTimeOriginal: 2013:10:13 11:28:10
+EXIF:CreateDate: 2013:10:13 11:28:10
+XMP:ModifyDate: 2016:12:18 15:30:51
+XMP:CreateDate: 2013:10:13 11:28:10
+XMP:MetadataDate: 2016:12:24 20:19:16-08:00
+XMP:DateCreated: 2013:10:13 11:28:10
+IPTC:DateCreated: 2013:10:13
+Composite:DateTimeCreated: 2013:10:13 11:28:10
+EXIF:ModifyDate: 2009:07:07 02:18:03
+EXIF:DateTimeOriginal: 2009:07:07 02:18:03
+EXIF:CreateDate: 2009:07:07 02:18:03
+MakerNotes:DateStampMode: 0
+XMP:DateCreated: 2009:07:07 02:18:03
+XMP:ModifyDate: 2009:07:07 02:18:03
+XMP:CreateDate: 2009:07:07 02:18:03
+XMP:MetadataDate: 2016:12:24 20:16:29-08:00
+IPTC:DateCreated: 2009:07:07
+Composite:DateTimeCreated: 2009:07:07 02:18:03
+EXIF:ModifyDate: 2016:12:17 14:19:29
+EXIF:DateTimeOriginal: 2015:05:13 20:13:32
+EXIF:CreateDate: 2015:05:13 20:13:32
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:13:32.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:13:32.00
+Composite:SubSecModifyDate: 2016:12:17 14:19:29.00
+Composite:GPSDateTime: 2015:05:14 03:11:24Z
+EXIF:ModifyDate: 2011:06:25 10:28:59
+EXIF:DateTimeOriginal: 2011:06:25 10:28:59
+EXIF:CreateDate: 2011:06:25 10:28:59
+EXIF:ModifyDate: 2015:05:13 20:17:49
+EXIF:DateTimeOriginal: 2015:05:13 20:17:49
+EXIF:CreateDate: 2015:05:13 20:17:49
+EXIF:GPSDateStamp: 2015:05:14
+Composite:SubSecCreateDate: 2015:05:13 20:17:49.00
+Composite:SubSecDateTimeOriginal: 2015:05:13 20:17:49.00
+Composite:SubSecModifyDate: 2015:05:13 20:17:49.00
+Composite:GPSDateTime: 2015:05:14 03:16:25Z
+QuickTime:CreateDate: 2018:10:14 01:31:28
+QuickTime:ModifyDate: 2019:02:19 07:05:56
+QuickTime:TrackCreateDate: 2019:02:19 07:05:56
+QuickTime:TrackModifyDate: 2019:02:19 07:05:56
+QuickTime:MediaCreateDate: 2019:02:19 07:05:56
+QuickTime:MediaModifyDate: 2019:02:19 07:05:56
+XMP:DateTimeOriginal: 2015:11:08 11:08:04.000
+QuickTime:CreateDate: 2016:04:14 12:29:56
+QuickTime:ModifyDate: 2019:02:21 08:22:28
+QuickTime:TrackCreateDate: 2019:02:21 08:22:28
+QuickTime:TrackModifyDate: 2019:02:21 08:22:28
+QuickTime:MediaCreateDate: 2019:02:21 08:22:28
+QuickTime:MediaModifyDate: 2019:02:21 08:22:28
+XMP:MetadataDate: 2016:12:24 20:21:06-08:00
+PNG:ModifyDate: 2016:12:25 05:39:50
+EXIF:ModifyDate: 2008:04:19 15:25:02
+EXIF:DateTimeOriginal: 2008:04:19 15:25:02
+EXIF:CreateDate: 2008:04:19 15:25:02
+XMP:DateCreated: 2008:04:19 15:25:02
+XMP:ModifyDate: 2008:04:19 15:25:02
+XMP:CreateDate: 2008:04:19 15:25:02
+XMP:MetadataDate: 2016:12:24 20:15:45-08:00
+IPTC:DateCreated: 2008:04:19
+Composite:DateTimeCreated: 2008:04:19 15:25:02
